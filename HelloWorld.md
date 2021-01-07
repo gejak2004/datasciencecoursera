@@ -12,7 +12,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ## This is  a markdown file
 
 
-```{r hello}
-print("Helo World!")
-```
+
 
